@@ -3,19 +3,19 @@
     {
       "title": "Bourbon_edit",
       "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwef08bb2c/crop/026552804_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=q_s_",
-      "price": 79.25,
+      "price": 79.63,
       "titledesp": "Ultimate Hydration Body Cream",
       "id": 1,
-      "cartquantity": 0,
+      "cartquantity": 1,
       "category": "bodycare",
       "reviewCount": 299,
       "rating": 1,
-      "": "80.25"
+      "": ""
     },
     {
       "title": "Classic Flannel",
       "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwcf9d3d94/crop/026553504_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=q_s_",
-      "price": 92.35,
+      "price": 95.25,
       "titledesp": "Body Spray",
       "id": 2,
       "cartquantity": 0,
@@ -34,7 +34,8 @@
       "category": "bodycare",
       "reviewCount": 294,
       "rating": 1,
-      "": "95.26"
+      "": "95.26",
+      "cartQuantity": null
     },
     {
       "title": "Classic Flannel",
@@ -70,7 +71,7 @@
       "rating": 3
     },
     {
-      "title": "Noir",
+      "title": "Noir_edit",
       "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwbcff0897/crop/026529919_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=q_s_",
       "price": 148.02297066294722,
       "titledesp": "Ultimate Hydration Body Cream",
@@ -105,7 +106,7 @@
     {
       "title": "Black Tie",
       "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw69703bc4/crop/026577313_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=q_s_",
-      "price": 85.42942506498208,
+      "price": 76.45,
       "titledesp": "3-in-1 Hair, Face & Body Wash",
       "id": 10,
       "cartquantity": 0,
@@ -248,7 +249,7 @@
     {
       "title": "Winter Candy Apple",
       "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw5d2efd4d/crop/026539034_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=q_s_",
-      "price": 134.85124267442666,
+      "price": 135.68,
       "titledesp": "Daily Nourishing Body Lotion",
       "id": 23,
       "cartquantity": 0,
@@ -270,7 +271,7 @@
     {
       "title": "Teakwood",
       "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw99e2e55a/crop/026526261_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=q_s_",
-      "price": 104.97680022267068,
+      "price": 105.98,
       "titledesp": "Daily Nourishing Body Lotion",
       "id": 25,
       "cartquantity": 0,
@@ -1593,7 +1594,7 @@
       "price": 152.97880671497467,
       "titledesp": "3-Wick Candle",
       "id": 145,
-      "cartquantity": 0,
+      "cartquantity": 3,
       "category": "candles",
       "reviewCount": 108,
       "rating": 5
@@ -1604,7 +1605,7 @@
       "price": 64.51538146317634,
       "titledesp": "Single Wick Candle",
       "id": 146,
-      "cartquantity": 0,
+      "cartquantity": 1,
       "category": "candles",
       "reviewCount": 371,
       "rating": 3
@@ -8362,39 +8363,75 @@
       "category": "holidays",
       "reviewCount": 197,
       "rating": 3
+    }
+  ],
+  "orders": [
+    {
+      "title": "Bourbon_edit",
+      "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwef08bb2c/crop/026552804_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=q_s_",
+      "price": 79.63,
+      "titledesp": "Ultimate Hydration Body Cream",
+      "id": 1,
+      "cartquantity": 0,
+      "category": "bodycare",
+      "reviewCount": 299,
+      "rating": 1,
+      "": ""
     },
     {
-      "title": "Abhishek",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkd_U1uTQ_vUOlaHVGdpPLYZCq_uQgyWrsuA&usqp=CAU",
-      "price": 100,
-      "titledesp": "abhi3",
+      "title": "Black Tie",
+      "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw68829434/crop/026587279_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=q_s_",
+      "price": 82.79350652002002,
+      "titledesp": "Wallflowers Fragrance Refill",
+      "id": 530,
       "cartquantity": 0,
-      "category": "abhi2",
-      "reviewCount": 0,
-      "rating": 4,
-      "id": 761
+      "category": "mensshop",
+      "reviewCount": 424,
+      "rating": 4
     },
     {
-      "title": "masai",
-      "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw729ebf2e/crop/026569410_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=q_s_",
-      "price": 100.25,
-      "titledesp": "teaching",
+      "title": "Eucalyptus Mint",
+      "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw8c572419/crop/026572578_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=q_s_",
+      "price": 73.16071641439154,
+      "titledesp": "Wallflowers Fragrance Refill",
+      "id": 558,
       "cartquantity": 0,
-      "category": "education",
-      "reviewCount": 0,
-      "rating": 4,
-      "id": 762
+      "category": "mensshop",
+      "reviewCount": 16,
+      "rating": 4
     },
     {
-      "title": "masai",
-      "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc5cb77d9/crop/026539038_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=q_s_",
-      "price": 100.25,
-      "titledesp": "teaching",
+      "title": "After Dark",
+      "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe1b6a172/crop/026587278_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=q_s_",
+      "price": 74.49509921175029,
+      "titledesp": "Wallflowers Fragrance Refill",
+      "id": 562,
       "cartquantity": 0,
-      "category": "education",
-      "reviewCount": 0,
-      "rating": 4,
-      "id": 763
+      "category": "mensshop",
+      "reviewCount": 433,
+      "rating": 5
+    },
+    {
+      "title": "Twisted Peppermint",
+      "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw3e2a4c5e/crop/026588369_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=q_s_",
+      "price": 64.51538146317634,
+      "titledesp": "Single Wick Candle",
+      "id": 146,
+      "cartquantity": 1,
+      "category": "candles",
+      "reviewCount": 371,
+      "rating": 3
+    },
+    {
+      "title": "Fresh Balsam",
+      "image": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.219/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw31fc5a41/crop/026577556_crop.jpg?sw=500&sh=600&sm=fit&q=75&yocs=q_s_",
+      "price": 152.97880671497467,
+      "titledesp": "3-Wick Candle",
+      "id": 145,
+      "cartquantity": 0,
+      "category": "candles",
+      "reviewCount": 108,
+      "rating": 5
     }
   ]
 }
