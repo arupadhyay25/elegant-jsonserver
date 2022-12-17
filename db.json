@@ -1,5 +1,5 @@
 {
-  "data": [
+  "mens": [
     {
       "id": 1,
       "name": "Men's Black Son of White Fang Graphic Printed Oversized T-shirt",
@@ -409,7 +409,7 @@
     },
     {
       "name": "Men's Blue Gravity Graphic Printed Hoodie",
-      "image": "https://images.bewakoof.com/t640/gravity-deep-rgb(255,164,28)-hoodie-sweatshirt-364990-1656196919-1.jpg",
+      "image": "https://images.bewakoof.com/t640/gravity-deep-teal-hoodie-sweatshirt-364990-1656196919-1.jpg",
       "price": 1499,
       "discount_price": 2499,
       "offer": "1379For TriBe Members",
@@ -485,8 +485,8 @@
       "brand": "elegant"
     },
     {
-      "name": "Men's rgb(255,164,28) Plus Size Hoodie",
-      "image": "https://images.bewakoof.com/t640/men-s-rgb(255,164,28)-solid-hoodie-499034-1667812418-1.jpg",
+      "name": "Men's Teal Plus Size Hoodie",
+      "image": "https://images.bewakoof.com/t640/men-s-teal-solid-hoodie-499034-1667812418-1.jpg",
       "price": 1399,
       "discount_price": 3199,
       "offer": "1289For TriBe Members",
@@ -1055,6 +1055,406 @@
       "id": 96,
       "category": "denim",
       "rating": 5
+    }
+  ],
+  "womens": [
+    {
+      "name": "Women's Black Free Bird Graphic Printed Plus Size Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t640/women-s-black-free-bird-plus-size-boyfriend-fit-t-shirt-555557-1669102677-1.jpg",
+      "price": 629,
+      "discount_price": 1049,
+      "brand": "Bewakoof",
+      "rating": "4.6",
+      "offer": "579For TriBe Members",
+      "id": 1,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Women's Black I'm Stylish Billie Eilish Graphic Printed Plus Size Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t640/women-s-black-i-m-stylish-billie-eilish-plus-size-boyfriend-fit-t-shirt-555572-1669103341-1.jpg",
+      "price": 649,
+      "discount_price": 1049,
+      "brand": "Bewakoof",
+      "rating": "4.6",
+      "offer": "599For TriBe Members",
+      "id": 2,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Women's Black Disney Cats Graphic Printed Plus Size Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t640/women-s-black-disney-cats-plus-size-boyfriend-fit-t-shirt-555564-1669103673-1.jpg",
+      "price": 629,
+      "discount_price": 1049,
+      "brand": "Bewakoof",
+      "rating": "4.3",
+      "offer": "579For TriBe Members",
+      "id": 3,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Women's Black Fake Love Graphic Printed Plus Size Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t640/women-s-black-fake-love-plus-size-boyfriend-fit-t-shirt-555565-1669103122-1.jpg",
+      "price": 599,
+      "discount_price": 1049,
+      "brand": "Bewakoof",
+      "rating": "4.6",
+      "offer": "549For TriBe Members",
+      "id": 4,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Customizable Women Black Round Neck T-Shirt",
+      "image": "https://images.bewakoof.com/t640/customizable-women-black-round-neck-t-shirt-443869-1655813695-1.jpg",
+      "price": 499,
+      "discount_price": 830,
+      "brand": "Bewakoof",
+      "offer": "459For TriBe Members",
+      "id": 5,
+      "category": "T-shirt",
+      "rating": 5
+    },
+    {
+      "name": "Women's Black Star Snoopy Graphic Printed Plus Size Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t640/women-s-black-star-snoopy-plus-size-boyfriend-fit-t-shirt-555563-1669103705-1.jpg",
+      "price": 629,
+      "discount_price": 1049,
+      "brand": "Bewakoof",
+      "rating": "4.7",
+      "offer": "579For TriBe Members",
+      "id": 6,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Lilac Bloom Boyfriend T-Shirt",
+      "image": "https://images.bewakoof.com/t640/lilac-bloom-boyfriend-t-shirt-346178-1666332865-1.jpg",
+      "price": 399,
+      "discount_price": 999,
+      "brand": "Bewakoof",
+      "rating": "4.6",
+      "offer": "369For TriBe Members",
+      "id": 7,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Women's White Bella Ciao Graphic Printed Slim Fit T-shirt",
+      "image": "https://images.bewakoof.com/t640/women-s-white-bella-ciao-slim-fit-t-shirt-270505-1655748122-1.jpg",
+      "price": 269,
+      "discount_price": 1099,
+      "brand": "Bewakoof",
+      "rating": "4.5",
+      "offer": "249For TriBe Members",
+      "id": 8,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Sarcastic One Boyfriend Women's T-shirt (DL)",
+      "image": "https://images.bewakoof.com/t640/sarcastic-one-boyfriend-women-s-t-shirt-dl-386575-1655748141-1.jpg",
+      "price": 449,
+      "discount_price": 1099,
+      "brand": "Bewakoof",
+      "rating": "4.5",
+      "offer": "409For TriBe Members",
+      "id": 9,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Women's Black Get Going Snoopy Graphic Printed Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t640/get-going-snoopy-boyfriend-t-shirt-516609-1657202693-1.jpg",
+      "price": 399,
+      "discount_price": 999,
+      "brand": "Bewakoof",
+      "rating": "4.7",
+      "offer": "369For TriBe Members",
+      "id": 10,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Women's Green Agents Typography Oversized T-shirt",
+      "image": "https://images.bewakoof.com/t640/women-s-green-agents-graphic-printed-oversized-t-shirt-559344-1670604335-1.jpg",
+      "price": 449,
+      "discount_price": 1499,
+      "brand": "Bewakoof",
+      "rating": "4.5",
+      "offer": "419For TriBe Members",
+      "id": 11,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Women's White Bugs Bunny All Over Printed Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t640/women-s-white-bugs-bunny-boyfriend-t-shirt-516730-1668168256-1.jpg",
+      "price": 659,
+      "discount_price": 1499,
+      "brand": "Bewakoof",
+      "rating": "4.5",
+      "offer": "609For TriBe Members",
+      "id": 12,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Whatever Cat Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t640/whatever-cat-boyfriend-t-shirt-388114-1655748484-1.jpg",
+      "price": 359,
+      "discount_price": 1099,
+      "brand": "Bewakoof",
+      "rating": "4.7",
+      "offer": "329For TriBe Members",
+      "id": 13,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Women's Purple Mickey AOP Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t640/women-s-purple-mickey-aop-boyfriend-t-shirt-516724-1668168177-1.jpg",
+      "price": 699,
+      "discount_price": 1499,
+      "brand": "Bewakoof",
+      "rating": "4.5",
+      "offer": "639For TriBe Members",
+      "id": 14,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Women's White One Of A Kind Graphic Printed Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t640/women-s-white-one-of-a-find-boyfriend-t-shirt-289016-1655748316-1.jpg",
+      "price": 314,
+      "discount_price": 999,
+      "brand": "Bewakoof",
+      "rating": "4.4",
+      "offer": "289For TriBe Members",
+      "id": 15,
+      "category": "T-shirt"
+    }
+  ],
+  "mobilecover": [
+    {
+      "name": "Flexin Minions Designer Hard Cover for Oppo A53",
+      "image": "https://images.bewakoof.com/t640/flexin-minions-designer-hard-cover-for-oppo-a53-557480-1669948573-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.7",
+      "offer": "279For TriBe Members",
+      "id": 1,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Weird Tom & Jerry Designer Hard Cover for Apple iPhone 13 Pro Max",
+      "image": "https://images.bewakoof.com/t640/weird-tom-jerry-designer-hard-cover-for-apple-iphone-13-pro-max-558422-1670477206-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.6",
+      "offer": "279For TriBe Members",
+      "id": 2,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Weird Tom & Jerry Designer Hard Cover for Realme 8",
+      "image": "https://images.bewakoof.com/t640/weird-tom-jerry-designer-hard-cover-for-realme-8-558455-1670479002-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.7",
+      "offer": "279For TriBe Members",
+      "id": 3,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Weird Tom & Jerry Designer Hard Cover for OnePlus 7",
+      "image": "https://images.bewakoof.com/t640/weird-tom-jerry-designer-hard-cover-for-oneplus-7-558521-1670478642-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.6",
+      "offer": "279For TriBe Members",
+      "id": 4,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Naruto Jutsu Designer Hard Cover for Apple iPhone 13 mini",
+      "image": "https://images.bewakoof.com/t640/naruto-jutsu-designer-hard-cover-for-apple-iphone-13-mini-558543-1670477507-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.5",
+      "offer": "279For TriBe Members",
+      "id": 5,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Geometric Panda Designer Hard Cover for OnePlus 9 Pro",
+      "image": "https://images.bewakoof.com/t640/geometric-panda-designer-hard-cover-for-oneplus-9-pro-558939-1670478681-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.6",
+      "offer": "279For TriBe Members",
+      "id": 6,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Geometric Panda Designer Hard Cover for Apple iPhone 12 Mini",
+      "image": "https://images.bewakoof.com/t640/geometric-panda-designer-hard-cover-for-apple-iphone-12-mini-559029-1670477288-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.7",
+      "offer": "279For TriBe Members",
+      "id": 7,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Naruto Jutsu Designer Hard Cover for Redmi Note 11",
+      "image": "https://images.bewakoof.com/t640/naruto-jutsu-designer-hard-cover-for-redmi-note-11-558665-1670480107-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.6",
+      "offer": "279For TriBe Members",
+      "id": 8,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Way To Hell Designer Hard Cover for OnePlus Nord CE 2",
+      "image": "https://images.bewakoof.com/t640/way-to-hell-designer-hard-cover-for-oneplus-nord-ce-2-556021-1669216088-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.6",
+      "offer": "279For TriBe Members",
+      "id": 9,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Wakanda Panther Purple Designer Hard Cover for Oppo A5 2020",
+      "image": "https://images.bewakoof.com/t640/wakanda-panther-purple-designer-hard-cover-for-oppo-a5-2020-556160-1669216548-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.5",
+      "offer": "279For TriBe Members",
+      "id": 10,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Reach For Stars Designer Hard Cover for Xiaomi Redmi Note 10 T",
+      "image": "https://images.bewakoof.com/t640/reach-for-stars-designer-hard-cover-for-xiaomi-redmi-note-10-t-554931-1668764354-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.6",
+      "offer": "279For TriBe Members",
+      "id": 11,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Feel The Pain Designer Hard Cover for Xiaomi Poco X3 Pro",
+      "image": "https://images.bewakoof.com/t640/feel-the-pain-designer-hard-cover-for-xiaomi-poco-x3-pro-557662-1669948497-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.6",
+      "offer": "279For TriBe Members",
+      "id": 12,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Feel The Pain Designer Hard Cover for Xiaomi Redmi Note 10 Pro Max",
+      "image": "https://images.bewakoof.com/t640/feel-the-pain-designer-hard-cover-for-xiaomi-redmi-note-10-pro-max-557682-1669948439-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.8",
+      "offer": "279For TriBe Members",
+      "id": 13,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Feel The Pain Designer Hard Cover for Xiaomi Redmi Note 7 Pro",
+      "image": "https://images.bewakoof.com/t640/feel-the-pain-designer-hard-cover-for-xiaomi-redmi-note-7-pro-557684-1669947959-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.6",
+      "offer": "279For TriBe Members",
+      "id": 14,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Feel The Pain Designer Hard Cover for Realme 6",
+      "image": "https://images.bewakoof.com/t640/feel-the-pain-designer-hard-cover-for-realme-6-557705-1669947533-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.5",
+      "offer": "279For TriBe Members",
+      "id": 15,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Shinigami Designer Hard Cover for Oppo F17 Pro",
+      "image": "https://images.bewakoof.com/t640/shinigami-designer-hard-cover-for-oppo-f17-pro-557220-1669949670-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.6",
+      "offer": "279For TriBe Members",
+      "id": 16,
+      "category": "T-shirt"
+    },
+    {
+      "name": "King Of Curses Designer Hard Cover for Samsung Galaxy Note 10 Lite",
+      "image": "https://images.bewakoof.com/t640/king-of-curses-designer-hard-cover-for-samsung-galaxy-note-10-lite-557389-1669947762-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.7",
+      "offer": "279For TriBe Members",
+      "id": 17,
+      "category": "T-shirt"
+    },
+    {
+      "name": "King Of Curses Designer Hard Cover for Xiaomi Mi 10i 5G",
+      "image": "https://images.bewakoof.com/t640/king-of-curses-designer-hard-cover-for-xiaomi-mi-10i-5g-557406-1669948134-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.6",
+      "offer": "279For TriBe Members",
+      "id": 18,
+      "category": "T-shirt"
+    },
+    {
+      "name": "King Of Curses Designer Hard Cover for Xiaomi Poco X2",
+      "image": "https://images.bewakoof.com/t640/king-of-curses-designer-hard-cover-for-xiaomi-poco-x2-557407-1669949585-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.7",
+      "offer": "279For TriBe Members",
+      "id": 19,
+      "category": "T-shirt"
+    },
+    {
+      "name": "King Of Curses Designer Hard Cover for Xiaomi Poco x3",
+      "image": "https://images.bewakoof.com/t640/king-of-curses-designer-hard-cover-for-xiaomi-poco-x3-557408-1669947895-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.7",
+      "offer": "279For TriBe Members",
+      "id": 20,
+      "category": "T-shirt"
+    },
+    {
+      "name": "Flexin Minions Designer Hard Cover for OnePlus 6T",
+      "image": "https://images.bewakoof.com/t640/flexin-minions-designer-hard-cover-for-oneplus-6t-557460-1669948187-1.jpg",
+      "price": 299,
+      "discount_price": 499,
+      "brand": "Bewakoof",
+      "rating": "4.7",
+      "offer": "279For TriBe Members",
+      "id": 21,
+      "category": "T-shirt"
     }
   ]
 }
